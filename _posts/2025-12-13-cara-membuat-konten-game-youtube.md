@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Cara Membuat Konten Game Youtube dengan Tepat
-tags: konten,youtube,game
+title: Ketahui Cara Membuat Konten Game Youtube dengan Tepat
+tags: konten
 mathjax: true
 ---
 
