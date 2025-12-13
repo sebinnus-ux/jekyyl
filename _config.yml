@@ -154,7 +154,7 @@ pageview:
 
 
 ## => Search
-##############################
+#############################
 search:
   provider: # "default" (default), false, "google", "custom"
 
