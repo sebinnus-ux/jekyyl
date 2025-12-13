@@ -1,4 +1,10 @@
 header:
+   - title:      Privacy
+    url: /privacy.html
+
+  - title:      Contact Us
+    url: /kontak.html
+
   - titles:
       # @start locale config
       en      : &EN       Archive
