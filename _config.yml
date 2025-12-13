@@ -178,7 +178,7 @@ analytics:
 ##############################
 markdown    : kramdown
 highlighter : rouge
-permalink   : date
+permalink   : /:title:output_ext
 
 exclude:
   - CHANGELOG.md
