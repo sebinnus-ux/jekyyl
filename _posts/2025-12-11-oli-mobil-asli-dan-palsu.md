@@ -9,6 +9,8 @@ Cara Membedakan Oli Mobil Asli dan Palsu dengan Benar – Oli mobil adalah salah
 
 [![Membedakan Oli Mobil Asli dan Palsu](https://github.com/sebinnus-ux/jekyyl/blob/95f037bc3ae7367f3fd1cb143d50f575c94a80ed/Membedakan-Oli-Mobil-Asli-dan-Palsu.jpg)]
 
+![Membedakan Oli Mobil Asli dan Palsu](phttps://github.com/sebinnus-ux/jekyyl/blob/95f037bc3ae7367f3fd1cb143d50f575c94a80ed/Membedakan-Oli-Mobil-Asli-dan-Palsu.jpg){:.border}
+
 Oleh karena itu, kualitas oli yang digunakan haruslah yang terbaik. Namun, dengan maraknya peredaran oli palsu ini, pemilik mobil sering kali menghadapi tantangan dalam membedakan oli asli dan palsu.
 
 ## Cara Membedakan Oli Mobil Asli dan Palsu
