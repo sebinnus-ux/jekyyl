@@ -7,7 +7,7 @@ mathjax: true
 
 Cara Membedakan Oli Mobil Asli dan Palsu dengan Benar – Oli mobil adalah salah satu komponen penting dalam mesin kendaraan. Fungsinya sangat krusial untuk menjaga kinerja mesin, mencegah aus, dan mengurangi gesekan antar komponen mesin.
 
-![Membedakan Oli Mobil Asli dan Palsu](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/membedakan-oli-mobil-asli-dan-palsu.jpg){:.border}
+![Membedakan Oli Mobil Asli dan Palsu](https://raw.githubusercontent.com/sebinnus-ux/jekyyl/master/membedakan-oli-mobil-asli-dan-palsu.jpg){:.border}
 
 Oleh karena itu, kualitas oli yang digunakan haruslah yang terbaik. Namun, dengan maraknya peredaran oli palsu ini, pemilik mobil sering kali menghadapi tantangan dalam membedakan oli asli dan palsu.
 
