@@ -144,7 +144,7 @@ comments:
 ## => Pageview
 ##############################
 pageview:
-  provider: false # false (default), "leancloud", "custom"
+  provider: default # false (default), "leancloud", "custom"
 
   ## Leancloud
   leancloud:
@@ -156,7 +156,7 @@ pageview:
 ## => Search
 #############################
 search:
-  provider: # "default" (default), false, "google", "custom"
+  provider: default # "default" (default), false, "google", "custom"
 
   ## Google Custom Search Engine
   google:
