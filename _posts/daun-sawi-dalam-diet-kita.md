@@ -1,6 +1,7 @@
 ---
 title: Daun Sawi dalam Diet
-tags: Sawi,Diet,Ahli Gizi,
+tags: Sawi,Diet,AhliGizi,
+mathjax: true
 ---
 
 Alasan Ahli Gizi untuk Menyertakan Daun Sawi dalam Diet Anda - Daun sawi, atau dalam bahasa Inggris sering disebut sebagai mustard greens, adalah salah satu jenis sayuran hijau yang kaya nutrisi dan sering direkomendasikan oleh ahli gizi untuk dimasukkan dalam diet sehari-hari. 
