@@ -9,7 +9,7 @@ article_header:
 
 Revolusi Industri Musik dengan Teknologi Virtual Concerts Membawa Konser ke Level Baru - Di era digital yang semakin berkembang, teknologi telah membawa perubahan besar dalam berbagai industri, termasuk industri musik. Salah satu inovasi yang mengubah cara musisi berinteraksi dengan penggemarnya adalah Virtual Concerts. 
 
-![Teknologi Virtual Concerts Membawa Konser ke Level Baru](https://raw.githubusercontent.com/sebinnus-ux/jekyyl/master/assets/TeknologiVirtualConcerts.jpg)
+![Teknologi Virtual Concerts Membawa Konser ke Level Baru](https://raw.githubusercontent.com/sebinnus-ux/jekyyl/master/assets/TeknologiVirtualConcerts.jpg){:.border}
 
 Teknologi Virtual Concerts ini memungkinkan para musisi untuk menyelenggarakan konser secara digital tanpa harus hadir secara fisik di lokasi tertentu. 
 
