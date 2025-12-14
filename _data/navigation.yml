@@ -1,4 +1,7 @@
 header:
+  - title:      Home
+    url: /#
+
   - title:      Privacy
     url: /privacy.html
 
