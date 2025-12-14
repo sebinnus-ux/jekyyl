@@ -12,7 +12,7 @@ Apa Itu Salicylic acid? dan Manfaat Salicylic Acid untuk Kulit - Saat mencari pr
 ## Manfaat dan Cara menggunakan Salicylic Acid 
 Namun, tidak semua jenis kulit cocok untuk perawatan wajah yang mengandung Salicylic acid Untuk mengetahui jenis dan kondisi kulit apa saja yang tidak disarankan untuk menggunakan produk salicylic acid, baca ulasan berikut ini mengenai cara menggunakan salicylic acid dan manfaatnya.
 
-[Manfaat dan Cara menggunakan Salicylic Acid](https://raw.githubusercontent.com/sebinnus-ux/jekyyl/master/assets/Manfaat-Salicylic-Acid.jpg)
+![Manfaat dan Cara menggunakan Salicylic Acid](https://raw.githubusercontent.com/sebinnus-ux/jekyyl/master/assets/Manfaat-Salicylic-Acid.jpg)
 
 ## Apa Itu Salicylic acid?
 Jika berbicara mengenai kandungan asam dalam produk perawatan kulit, ada dua jenis asam yang sudah dikenal luas, yaitu beta hydroxy acid (BHA) dan alpha hydroxy acid (AHA). Salicylic Acid ini adalah bahan untuk produk perawatan kulit wajah.
