@@ -5,7 +5,7 @@ tags: asuransi
 mathjax: true
 ---
 
-Peran Data Besar dalam Transformasi Industri Asuransi melalui [Insurtech](/_posts/2026-01-22-big-data-dalam-transformasi-industri-asuransi.md) - Insurtech adalah terobosan teknologi yang membawa dampak besar dalam industri asuransi dengan cara yang lebih efisien dan terjangkau. 
+Peran Data Besar dalam Transformasi Industri Asuransi melalui [Insurtech](/2026-01-22-big-data-dalam-transformasi-industri-asuransi.md) - Insurtech adalah terobosan teknologi yang membawa dampak besar dalam industri asuransi dengan cara yang lebih efisien dan terjangkau. 
 
 Dengan memanfaatkan teknologi mutakhir seperti analisis data besar, Internet of Things (IoT), dan kecerdasan buatan (AI), teknologi ini mengubah cara perusahaan asuransi membuat, menilai risiko, dan mengelola polis asuransi. 
 
