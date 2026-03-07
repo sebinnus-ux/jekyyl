@@ -61,7 +61,7 @@ Keberadaan jalan tol ternyata memberikan banyak manfaat, lho:
 
 Jadi, sekarang sudah tahu kan kepanjangan tol yang sebenarnya? Bukan "Tax On Location" atau "Tanpa Ongkos Lebih", melainkan **"Tax On Line"**! Meski asal-usul katanya dari bahasa Belanda, yang jelas tol sudah menjadi bagian penting dari mobilitas kita sehari-hari.
 
-Semoga artikel ini bermanfaat dan menambah wawasan kalian, ya! Lain kali kalau lewat tol, ingat-ingat lagi sejarah dan fakta menarik di balik jalan mulus yang kita lalui. Selamat berkendara dan selalu patuhi peraturan lalu lintas  [sbobet](https://www.canochiropractic.com/locations/)!
+Semoga artikel ini bermanfaat dan menambah wawasan kalian, ya! Lain kali kalau lewat tol, ingat-ingat lagi sejarah dan fakta menarik di balik jalan mulus yang kita lalui. Selamat berkendara dan selalu patuhi peraturan lalu lintas.
 
 **Ada pertanyaan atau pengalaman seru di jalan tol? Yuk, share di kolom komentar!**
 
